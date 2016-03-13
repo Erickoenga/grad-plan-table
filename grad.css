@@ -1,0 +1,79 @@
+html{
+    padding-left: 20px;
+    padding-right: 80px;
+   background-color: #eaeaea;;
+}
+nav li{
+    display:block;
+    padding: 1em;
+   text-align: center;
+}
+
+a:link{color: #000000;}
+a:visited{color: #ff0000;}
+a:hover{color: #000066;}
+
+p{
+    text-align: justify;
+}
+table{
+    border: 1px solid #000066;
+    margin: auto;
+    width: 650px;
+}
+caption{
+    background-color: #473C8B;
+    font-weight: bold;
+    font-size: 2em;
+    padding-bottom: 5px;
+}
+td, th{
+    border: 1px solid #000066;
+    padding: 5px;
+}
+.fall16{
+    color: #FF8000;
+    font-size:20px;
+    font-weight: bold;
+    background-color: #8E388E;
+}
+.spring17{
+    color: #000062;
+    font-size:1.2em;
+    font-weight:600;
+    background-color:#FF0000;
+}
+.summer17{
+    color: #ffffff;
+    font-size:22px;
+    font-weight:700;
+    background-color:#8968CD;
+}
+
+.fall17{
+    color: #912CEE;
+    font-size:120%;
+    font-weight:700;
+    background-color:#FFBBFF;
+}
+
+.spring18{
+    color: #FFFF00;
+    font-size:21px;
+    font-weight:700;
+    background-color:#000000;
+}
+
+.total{
+    text-align: center;
+}
+.bac{background-color: #8b8682;}
+
+tr:nth-of-type(even){background-color: #87cefa;}
+
+.thead{background-color: #00FF00;}
+
+.tfoot{
+    background-color: #ee00ee;
+    text-align: center;
+}
